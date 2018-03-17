@@ -1,8 +1,8 @@
-# `cluster.coreos.backup`
+# `cluster.backup`
 
 A set of tools to back up precious data inside an EPFL-style CoreOS cluster
 
-## `cluster.coreos.backup-server`
+## `cluster.backup.server`
 
 Low-tech, git-based place to push precious data into
 
